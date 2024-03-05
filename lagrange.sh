@@ -104,7 +104,7 @@ cat > ${config_file} <<EOL
     "DeviceInfo": "./data/device.json",
     "Database": "./data/Lagrange.db"
   },
-  "SignServerUrl": "https://sign.libfekit.so/api/sign",
+  "SignServerUrl": "<sign地址>",
   "Account": {
     "Uin": 0,
     "Password": "",
